@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{10B9135E-DB5A-42D1-F6DD-1A117A289676}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMain.cs" Line="49" Column="4" />
+      <File FileName="Assets/Scripts/BaseCharacterController.cs" Line="81" Column="45" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NinzyaAttack" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ooeshoutarou/Programming Bible-Unity/NinzyaAttack/Assets/Scripts/PlayerMain.cs" relfile="Assets/Scripts/PlayerMain.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ooeshoutarou/Programming Bible-Unity/NinzyaAttack/Assets/Scripts/PlayerMain.cs" relfile="Assets/Scripts/PlayerMain.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
